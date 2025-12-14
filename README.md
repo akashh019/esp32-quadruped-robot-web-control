@@ -6,3 +6,6 @@ decision logic are not included in this repository due to ongoing
 intellectual property and patent-related work. The published code
 demonstrates the complete low-level control, inverse kinematics,
 gait planning, obstacle avoidance, and web-based command handling.
+## Demo Video
+https://github.com/user-attachments/assets/e144abc7-494d-4ef0-8fb7-cc8b403ad865
+![IMG_6289](https://github.com/user-attachments/assets/0b06a100-7ab2-4ce5-a192-8913a2e123de)
